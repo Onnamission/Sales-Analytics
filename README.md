@@ -1,3 +1,5 @@
+![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Sales-Analytics)
+
 # Sales Analytics
 
 Analysis of ALTIQ sales dataset.
@@ -105,11 +107,11 @@ If you find same repository as this one without giving me acknowledgement:
 - Click on the dashboard related to this repository.
 - Check the published date
 
-The first published date is  Apr 18, 2022 and will remain that only. Look out the git commit time also.
+The first published date is  Apr 18, 2022 and will remain that only.
 
 If the code is same and dashboard is different, check for the measured values in the dashboard.
 
-If you find date and time after the above date and time, it is copied without my repository acknowledgement.
+If you find date after the above date, it is copied without my repository acknowledgement.
 
 Further, the code used in this repository is completely original and first published.
 
