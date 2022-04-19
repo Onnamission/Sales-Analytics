@@ -108,6 +108,9 @@ The visualization were made using Tableau.
 
 ![Enhanced Sales Dashboard](enhance_sales_dashboard.png)
 
+## 🔗 Links
+[![TABLEAU](https://img.shields.io/badge/tableau-0A66C2?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.kakde)
+
 ## Disclaimer
 
 If you find same repository as this one without giving me acknowledgement:
@@ -122,9 +125,6 @@ If the code is same and dashboard is different, check for the measured values in
 If you find date after the above date, it is copied without my repository acknowledgement.
 
 Further, the code used in this repository is completely original and first published.
-
-## 🔗 Links
-[![TABLEAU](https://img.shields.io/badge/tableau-0A66C2?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.kakde)
 
 ## Support
 
