@@ -6,8 +6,9 @@
 Analysis of ALTIQ company sales dataset.
 
 ## Tech Stack
-
-**Client:** R, SQL, Tableau
+![Made With R](https://img.shields.io/badge/Made%20with-R-red?style=for-the-badge&logo=R)
+![Made With R](https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=MySQL)
+![Made With R](https://img.shields.io/badge/Made%20with-Tableau-orange?style=for-the-badge&logo=Tableau)
 
 ## Download
 
