@@ -47,6 +47,7 @@ The dataset is in STAR SCHEMA format where transactions is the FACT tbale and ot
 - Data insights using SQL.
 - Data cleaning using R programming.
 - Data visualization using Tableau.
+
 I used Tableau as it is used to process big dataset.
 
 During the datainsghts, I joined all the dimension tables with the fact tables just to keep things simple and now we need to work with just single file.
