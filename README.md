@@ -28,7 +28,7 @@ Defining data pipeline in R for data cleaning.
     drop_na()
 ```
 
-## About Dataset
+## Dataset
 
 The datset is about the sales record of company named ALTIQ. The dataset is in SQL format and contains 5 tables named as:
 - Customers
@@ -36,6 +36,7 @@ The datset is about the sales record of company named ALTIQ. The dataset is in S
 - Markets
 - Products
 - Transactions
+
 The dataset is in STAR SCHEMA format where transactions is the FACT tbale and others are dimension tables.
 
 ## Original Methodology
