@@ -2,11 +2,17 @@
 
 # Sales Analytics
 
-Analysis of ALTIQ sales dataset.
+Analysis of ALTIQ company sales dataset.
 
 ## Tech Stack
 
 **Client:** R, SQL, Tableau
+
+## Download
+
+```bash
+  git clone https://github.com/Onnamission/Sales-Analytics.git
+```
 
 ## About
 
