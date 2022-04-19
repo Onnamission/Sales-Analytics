@@ -97,19 +97,31 @@ The visualization were made using Tableau.
 
 ![Enhanced Sales Dashboard](enhance_sales_dashboard.png)
 
+## Disclaimer
+
+If you find same repository as this one without giving me acknowledgement:
+- Go to my tableau profile
+- Click on the dashboard related to this repository.
+- Check the published date
+
+The first published date is  Apr 18, 2022 and will remain that only. Look out the git commit time also.
+
+If the code is same and dashboard is different, check for the measured values in the dashboard.
+
+If you find date and time after the above date and time, it is copied without my repository acknowledgement.
+
+Further, the code used in this repository is completely original and first published.
+
 ## 🔗 Links
 [![TABLEAU](https://img.shields.io/badge/tableau-0A66C2?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.kakde)
-
-
-## Authors
-
-- [@Onnamission](https://www.github.com/octokatherine)
-
 
 ## Support
 
 For support, find me 😂.
 
+## Authors
+
+- [@Onnamission](https://www.github.com/octokatherine)
 
 ## Acknowledgements
 
