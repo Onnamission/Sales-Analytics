@@ -132,7 +132,7 @@ For support, find me 😂.
 
 ## Authors
 
-- [@Onnamission](https://www.github.com/octokatherine)
+- [@Onnamission](https://www.github.com/Onnamission)
 
 ## Acknowledgements
 
