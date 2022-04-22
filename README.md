@@ -7,7 +7,7 @@ Analysis of ALTIQ company sales dataset.
 
 ## Tech Stack
 ![Made With R](https://img.shields.io/badge/Made%20with-R-red?style=for-the-badge&logo=R)
-![Made With SQL](https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=MySQL)
+![Made With SQL](https://img.shields.io/badge/Made%20with-SQL-blue?style=for-the-badge&logo=MySQL)
 ![Made With Tableau](https://img.shields.io/badge/Made%20with-Tableau-orange?style=for-the-badge&logo=Tableau)
 
 ## Download
