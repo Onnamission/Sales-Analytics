@@ -1,3 +1,4 @@
+![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Sales-Analytics)
 ![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Sales-Analytics)
 ![Github Repo License](https://img.shields.io/github/license/Onnamission/Sales-Analytics)
 
