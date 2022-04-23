@@ -1,10 +1,11 @@
+# Sales Analytics
+
 ![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Sales-Analytics)
+![Github Repo Build](https://img.shields.io/github/workflow/status/Onnamission/Sales-Analytics/sales)
 ![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Sales-Analytics)
 ![Github Repo License](https://img.shields.io/github/license/Onnamission/Sales-Analytics)
 ![Github Repo Maintenance](https://img.shields.io/maintenance/yes/2022)
 ![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Sales-Analytics/total)
-
-# Sales Analytics
 
 Analysis of ALTIQ company sales dataset.
 
