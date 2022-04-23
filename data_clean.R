@@ -2,11 +2,10 @@
 
 library(tidyverse)
 library(janitor)
-library(skimr)
 
 print(getwd())
 
-setwd("D:/Business Analytics/PROJECT 2")
+setwd("D:/Projects/Sales-Analytics")
 print(getwd())
 
 df = read.csv('Dataset/sales.csv')
@@ -37,7 +36,6 @@ data_clean$currency[data_clean$currency == "USD\r"] = "INR"
 data_clean$currency[data_clean$currency == "USD\n"] = "INR"
 
 
-# Printing cleaned dataset
-View(data_clean)
+# View(data_clean)
 
-write.csv(data_clean, "sales.csv", row.names = FALSE)
+# write.csv(data_clean, "sales.csv", row.names = FALSE)
