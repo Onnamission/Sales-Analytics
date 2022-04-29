@@ -2,10 +2,11 @@
 
 ![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Sales-Analytics)
 ![Github Repo Build](https://img.shields.io/github/workflow/status/Onnamission/Sales-Analytics/sales)
+![Github Repo Checks](https://badgen.net/github/checks/Onnamission/Sales-Analytics/main)
 ![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Sales-Analytics)
 ![Github Repo License](https://img.shields.io/github/license/Onnamission/Sales-Analytics)
-![Github Repo Maintenance](https://img.shields.io/maintenance/yes/2022)
 ![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Sales-Analytics/total)
+![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
 Analysis of ALTIQ company sales dataset.
 
@@ -34,7 +35,7 @@ Now here comes the role on R where you just need to define a function in a pipli
 
 Defining data pipeline in R for data cleaning.
 
-```bash
+```r
   data_clean = df %>%
     na_if(-1) %>%
     na_if(0) %>%
@@ -73,7 +74,7 @@ I used INNER JOIN to combine all table but some redundant columns also came in. 
 
 Redundant columns came into due to INNER JOIN.
 
-```bash
+```r
   data_clean = df %>%
     subset(select=-c(date, product_code_1, customer_code_1, markets_code))
 ```
@@ -82,7 +83,7 @@ Redundant columns came into due to INNER JOIN.
 
 SQL query to join all tables into one.
 
-```bash
+```sql
   SELECT *
   FROM sales.transactions
   INNER JOIN sales.customer ON sales.transactions.customer_code = sales.customer.customer_code
@@ -99,7 +100,7 @@ There were some redundancy in curreny column in transactions table like
 
 Further conversion from USD to INR where also performed.
 
-```bash
+```r
   data_clean$currency[data_clean$currency == "INR\r"] = "INR"
   data_clean$currency[data_clean$currency == "USD\r"] = "INR"
 ```
